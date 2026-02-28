@@ -1,5 +1,5 @@
-# 💫 About Me:
-💻 Strong focus on Data Structures and Algorithms (DSA) using Java<br><br>🧠 Solved 500+ DSA problems across various coding platforms<br><br>🤖 Building and exploring Artificial Intelligence & Machine Learning projects<br><br>📚 Continuously improving problem-solving, algorithmic thinking, and optimization skills<br><br>🎯 Interested in writing clean, efficient, and scalable code<br><br>🤝 Open to collaborating on AI-driven and backend development projects
+# Hi there 👋 It's me Balaji
+💻 Strong focus on Data Structures and Algorithms (DSA) using Java<br><br>🔭 Here's my [portfolio](https://preview--balaji-portfolio-verse.lovable.app/)<br><br>🧠 Solved 500+ DSA problems across various coding platforms<br><br>🤖 Building and exploring Artificial Intelligence & Machine Learning projects<br><br>📚 Continuously improving problem-solving, algorithmic thinking, and optimization skills<br><br>🎯 Interested in writing clean, efficient, and scalable code<br><br>🤝 Open to collaborating on AI-driven and backend development projects
 
 
 # 💻 Tech Stack:
@@ -11,6 +11,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=balaji6167&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Balaji-1107?theme=dark&font=Shanti&ext=contest)](https://leetcode.com/u/Balaji-1107/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--

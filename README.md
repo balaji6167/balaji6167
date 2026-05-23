@@ -1,6 +1,6 @@
 # Hi there 👋 It's me Balaji
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-💻 Strong focus on Data Structures and Algorithms (DSA) using Java<br><br>🔭 Here's my [portfolio](https://preview--balaji-portfolio-verse.lovable.app/)<br><br>🧠 Solved 500+ DSA problems across various coding platforms<br><br>🤖 Building and exploring Artificial Intelligence & Machine Learning projects<br><br>📚 Continuously improving problem-solving, algorithmic thinking, and optimization skills<br><br>🎯 Interested in writing clean, efficient, and scalable code<br><br>🤝 Open to collaborating on AI-driven and backend development projects
+💻 Strong focus on Data Structures and Algorithms (DSA) using Java<br><br>🔭 Here's my [portfolio](https://balaji-portfolio-verse.lovable.app/)<br><br>🧠 Solved 500+ DSA problems across various coding platforms<br><br>🤖 Building and exploring Artificial Intelligence & Machine Learning projects<br><br>📚 Continuously improving problem-solving, algorithmic thinking, and optimization skills<br><br>🎯 Interested in writing clean, efficient, and scalable code<br><br>🤝 Open to collaborating on AI-driven and backend development projects
 
 
 # 💻 Tech Stack:
